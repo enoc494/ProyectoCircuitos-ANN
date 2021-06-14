@@ -9,3 +9,10 @@ Potenciometro: esquematico RARO
 
 Demomento Hemos Hecho:
 -Acomodado en subcarpetas respectivas
+
+
+----
+Orden de carpetas:
+
+Data0/Esquematicos   (con 15 clases)
+Data0/Componentes    (con 18 clases)
